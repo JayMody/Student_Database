@@ -10,8 +10,14 @@ Each student can also have a first name, last name, and number.
 
 - remove student
 
-- search student
+- search students by id, first name, last name, number (optimized)
 
 - edit student
 
+- sorts students by ID
+
 The jar file version still needs to be updated. Currently, the program run from the jar does not save and of the data.
+
+
+## GUI
+![User Interface][/GUI.png]
