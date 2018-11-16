@@ -20,4 +20,4 @@ The jar file version still needs to be updated. Currently, the program run from 
 
 
 ## GUI
-![User Interface][/GUI.png]
+![User Interface](/GUI.png)
